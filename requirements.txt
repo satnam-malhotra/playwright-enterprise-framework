@@ -1,0 +1,9 @@
+playwright
+pytest
+pytest-playwright
+pytest-xdist
+requests
+allure-pytest
+python-dotenv
+json-schema
+ruff
