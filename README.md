@@ -294,7 +294,7 @@ jobs:
 
 # Author
 
-Developed by Satnam Singh
+Developed by Satnam Malhotra
 
 QA Automation Architect | Playwright | API Automation | Enterprise Test Frameworks
 
